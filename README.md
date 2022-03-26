@@ -1,6 +1,6 @@
 ### Hi there, I'm Abhishek Srivastava - aka [Adder] 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/adder_neo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fadder_neo&screen_name=adder_neo)
+[![Twitter Follow](https://img.shields.io/twitter/follow/iv_abhishek?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fiv_abhishek&screen_name=adder_neo)
 
 ## Software Developer | Crypto | DeFi | NFTs |
 
@@ -38,10 +38,10 @@
 <br />
 
 [website]: https://bit.ly/adder_neo
-[twitter]: https://twitter.com/adder_neo
+[twitter]: https://twitter.com/iv_abhishek
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/adder.neo
-[linkedin]: https://www.linkedin.com/in/adderneo/
+[linkedin]: https://www.linkedin.com/in/iv-abhishek
 
 <br />
 
@@ -52,4 +52,4 @@
 <summary>:zap: GitHub Stats</summary>
 
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek-iv)
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=iv-abhishek)
