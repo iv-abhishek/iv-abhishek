@@ -40,7 +40,7 @@
 [website]: https://bit.ly/adder_neo
 [twitter]: https://twitter.com/iv_abhishek
 [youtube]: https://youtube.com/
-[instagram]: https://instagram.com/adder.neo
+[instagram]: https://instagram.com/iv.abhishek
 [linkedin]: https://www.linkedin.com/in/iv-abhishek
 
 <br />
