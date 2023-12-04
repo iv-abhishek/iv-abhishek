@@ -45,10 +45,6 @@
 
 <br />
 
-<a href="https://app.daily.dev/iv_abhishek"><img src="https://api.daily.dev/devcards/503792fac39543c8ac1fc204f53922ce.png?r=r0i" width="400" alt="Abhishek Srivastava's Dev Card"/></a>
-
-<br />
-
 <summary>:zap: GitHub Stats</summary>
 
 
