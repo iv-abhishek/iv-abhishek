@@ -4,11 +4,11 @@
 
 ## Software Developer | Crypto | DeFi | NFTs |
 
-- 🔭 Trying to break into Web3 & Blockchain
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other blockchain enthusiast 
-- 🥅 2022 Goals: To become a full-time Blockchain Developer in 2022
-- ⚡ Fun fact: I love to drive and travel
+- 🔭 Entering the realm of Web3 and Blockchain.
+- 🌱 I’m currently learning everything. 🤣
+- 👯 I’m looking to collaborate with other blockchain enthusiast.
+- 🥅 2024 Goals: To become a full-time Blockchain Developer.
+- ⚡ Fun fact: I love to drive and travel.
 
 ### Connect with me:
 
