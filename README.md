@@ -7,7 +7,7 @@
 - 🔭 Entering the realm of Web3 and Blockchain.
 - 🌱 I’m currently learning everything. 🤣
 - 👯 I’m looking to collaborate with other blockchain enthusiast.
-- 🥅 2024 Goals: To become a full-time Blockchain Developer.
+- 🥅 2026 Goals: To become a full-time Blockchain Developer.
 - ⚡ Fun fact: I love to drive and travel.
 
 ### Connect with me:
