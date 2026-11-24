@@ -34,6 +34,8 @@
 | **Duely** | An iOS app that keeps track of credit card due dates privately, on your phone | In development |
 | **Kenni** | An offline voice assistant for Mac: dictation, writing help and Mac control | In development |
 | **K12Labs** | Interactive science simulations and an LMS for school curricula | In development |
+| **Adhita AI** | A complete learning stack for e-ink and regular tablets: personalised adaptive learning, e-book reader and store, notes, dictionary, *Ask Adhita* AI tutor, device management and a classroom hub for smart panels | In development |
+| **The Billing App** | Two apps for bills. Shopkeepers make a bill by snapping a photo of the product box, and buyers keep all their bills in one cloud vault with a spending dashboard | In development |
 
 ### Tech I work with
 
