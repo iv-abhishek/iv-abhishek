@@ -1,51 +1,53 @@
-### Hi, I'm Abhishek Srivastava 👋 
+<h1 align="center">Hi, I'm Abhishek Srivastava 👋</h1>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/iv_abhishek?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fiv_abhishek&screen_name=adder_neo)
+<p align="center">
+  <b>Gov-tech consultant · Founder, Kennisor Networks · Building with AI, Quantum & Blockchain</b>
+</p>
 
-## Software Developer | Crypto | DeFi | NFTs |
+<p align="center">
+  <a href="https://x.com/iv_abhishek"><img src="https://img.shields.io/badge/Follow-@iv__abhishek-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow @iv_abhishek on X" /></a>
+  <a href="https://www.linkedin.com/in/iv-abhishek"><img src="https://img.shields.io/badge/LinkedIn-iv--abhishek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://kennisor.com"><img src="https://img.shields.io/badge/Kennisor-Networks-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Kennisor Networks" /></a>
+  <a href="mailto:hi@kennisor.com"><img src="https://img.shields.io/badge/Email-hi@kennisor.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-- 🔭 Entering the realm of Web3 and Blockchain.
-- 🌱 I’m currently learning everything. 🤣
-- 👯 I’m looking to collaborate with other blockchain enthusiast.
-- 🥅 2026 Goals: To become a full-time Blockchain Developer.
-- ⚡ Fun fact: I love to drive and travel.
+---
 
-### Connect with me:
+### About me
 
-[<img align="left" alt="bit.ly/adder_neo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Adderneo | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="adderneo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="adderneo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="adderneo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 🏛️ I consult on technology for state government education programmes: ICT labs, smart classes, procurement and digital platforms.
+- 🚀 I founded **Kennisor Networks**, a product company working on IT, EdTech and AI/ML.
+- 🧠 Right now I'm learning **quantum computing** and building apps that run AI **on the device**.
+- 🐦 I post about **AI, quantum and blockchain** on X as [@iv_abhishek](https://x.com/iv_abhishek). Come say hi.
+- 📍 Lucknow, India
 
-<br />
+### What I'm building
 
-### Languages and Tools:
+| Project | What it does | Status |
+|---|---|---|
+| **Sandarbh.ai** | A bilingual AI assistant for Uttar Pradesh Government Orders (Shasanadesh) | In development |
+| **GeM Intelligence** | Procurement insights for bidders on the Government e-Marketplace | In development |
+| **Grammar Max** | An iOS keyboard that fixes your English grammar as you type and explains why | TestFlight beta |
+| **Duely** | An iOS app that keeps track of credit card due dates privately, on your phone | In development |
+| **Kenni** | An offline voice assistant for Mac: dictation, writing help and Mac control | In development |
+| **K12Labs** | Interactive science simulations and an LMS for school curricula | In development |
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+### Tech I work with
 
-<br />
+<p>
+  <img src="https://skillicons.dev/icons?i=swift,python,js,ts,react,nodejs,unity,cs,html,css,mysql,mongodb,git,github,vscode&perline=15" alt="Tech stack" />
+</p>
 
-[website]: https://bit.ly/adder_neo
-[twitter]: https://twitter.com/iv_abhishek
-[youtube]: https://youtube.com/
-[instagram]: https://instagram.com/iv.abhishek
-[linkedin]: https://www.linkedin.com/in/iv-abhishek
+### GitHub stats
 
-<br />
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iv-abhishek&show_icons=true&hide_border=true&theme=transparent" alt="Abhishek's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iv-abhishek&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+</p>
 
-<summary>:zap: GitHub Stats</summary>
+---
 
-
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=iv-abhishek)
+<p align="center">
+  <i>Open to working together on AI for governance, EdTech and public-sector technology.</i><br/>
+  <a href="https://x.com/iv_abhishek">DM me on X</a> · <a href="mailto:hi@kennisor.com">hi@kennisor.com</a>
+</p>
