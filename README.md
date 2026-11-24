@@ -15,7 +15,7 @@
 
 ### About me
 
-- 🏛️ I consult on technology for state government education programmes: ICT labs, smart classes, procurement and digital platforms.
+- 🏛️ I'm a government procurement and technology consultant. I help state departments plan, specify and buy technology at scale (RFPs, tenders, bills of material, GeM) and roll out digital platforms that work on the ground.
 - 🚀 I founded **Kennisor Networks**, a product company working on IT, EdTech and AI/ML.
 - 🧠 Right now I'm learning **quantum computing** and building apps that run AI **on the device**.
 - 🐦 I post about **AI, quantum and blockchain** on X as [@iv_abhishek](https://x.com/iv_abhishek). Come say hi.
