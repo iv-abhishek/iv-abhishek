@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://x.com/iv_abhishek"><img src="https://img.shields.io/badge/Follow-@iv__abhishek-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow @iv_abhishek on X" /></a>
   <a href="https://www.linkedin.com/in/iv-abhishek"><img src="https://img.shields.io/badge/LinkedIn-iv--abhishek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:adder.neo@gmail.com"><img src="https://img.shields.io/badge/Email-adder.neo@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -50,5 +51,5 @@
 
 <p align="center">
   <i>Open to working together on AI for governance, EdTech and public-sector technology.</i><br/>
-  <a href="https://x.com/iv_abhishek">DM me on X</a>
+  <a href="https://x.com/iv_abhishek">DM me on X</a> · <a href="mailto:adder.neo@gmail.com">adder.neo@gmail.com</a>
 </p>
