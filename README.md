@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Abhishek Srivastava 👋</h1>
 
 <p align="center">
-  <b>Gov-tech consultant · Founder, Kennisor Networks · Building with AI, Quantum & Blockchain</b>
+  <b>Govt Procurement & Tech Consultant · Financial Consultant · Founder, Kennisor Networks</b><br/>
+  <sub>🤖 AI · ⚛️ Quantum · ⛓️ Blockchain · ₿ Bitcoin</sub>
 </p>
 
 <p align="center">
@@ -15,7 +16,9 @@
 
 ### About me
 
-- 🏛️ I'm a government procurement and technology consultant. I help state departments plan, specify and buy technology at scale (RFPs, tenders, bills of material, GeM) and roll out digital platforms that work on the ground.
+- 🏛️ **Govt procurement & technology consultant.** I turn big public-sector tech plans into RFPs, tenders and GeM buys, and see them through to rollouts that actually work.
+- 💰 **Financial consultant.** I connect money and technology: budgets, costing and the business case behind every deployment, with a close eye on Bitcoin and digital assets.
+- 🔮 Betting on what's next: **AI** for governance, **blockchain** for trust and transparency, and **quantum** for the decade after.
 - 🚀 I founded **Kennisor Networks**, a product company working on IT, EdTech and AI/ML.
 - 🧠 Right now I'm learning **quantum computing** and building apps that run AI **on the device**.
 - 🐦 I post about **AI, quantum and blockchain** on X as [@iv_abhishek](https://x.com/iv_abhishek). Come say hi.
