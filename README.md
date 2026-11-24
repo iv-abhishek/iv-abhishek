@@ -30,7 +30,7 @@
 |---|---|---|
 | **Sandarbh.ai** | A bilingual AI assistant for Uttar Pradesh Government Orders (Shasanadesh) | In development |
 | **GeM Intelligence** | Procurement insights for bidders on the Government e-Marketplace | In development |
-| **Grammar Max** | An iOS keyboard that fixes your English grammar as you type and explains why | TestFlight beta |
+| **Keymax** | An iOS keyboard that fixes your English grammar as you type and explains why | TestFlight beta |
 | **Duely** | An iOS app that keeps track of credit card due dates privately, on your phone | In development |
 | **Kenni** | An offline voice assistant for Mac: dictation, writing help and Mac control | In development |
 | **K12Labs** | Interactive science simulations and an LMS for school curricula | In development |
