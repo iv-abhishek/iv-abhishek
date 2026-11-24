@@ -35,7 +35,7 @@
 | **Kenni** | An offline voice assistant for Mac: dictation, writing help and Mac control | In development |
 | **K12Labs** | Interactive science simulations and an LMS for school curricula | In development |
 | **Adhita AI** | A complete learning stack for e-ink and regular tablets: personalised adaptive learning, e-book reader and store, notes, dictionary, *Ask Adhita* AI tutor, device management and a classroom hub for smart panels | In development |
-| **The Billing App** | Two apps for bills. Shopkeepers make a bill by snapping a photo of the product box, and buyers keep all their bills in one cloud vault with a spending dashboard | In development |
+| **Billei** | Two apps for bills. Shopkeepers make a bill by snapping a photo of the product box, and buyers keep all their bills in one cloud vault with a spending dashboard | In development |
 | **SignKey** | Solving DSC on Mac: sign PDFs with any USB DSC token (ProxKey and other Indian brands), coming to the Mac App Store | In development |
 | **DualDesk** | Run Windows on your Mac. A fast virtual machine app for Apple Silicon | In development |
 
